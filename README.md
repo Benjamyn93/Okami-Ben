@@ -1,16 +1,20 @@
-# 28th July 8:28pm:
-## 14 Samples in DB 
+# 29th July:
+## 18 Samples in DB 
 - AsyncRAT
 - Azorult
 - Blackmatter
 - Cerber
 - Clop
+- Conti
+- Cortex
 - Darkside
+- Dridex
 - Emotet
-- Lockbit
+- LockBit
 - Maze
 - Mimikatz
 - NetWalker
 - Ryuk
+- Sodinokibi
 - TrickBot
-- Zeus
+- Zeus 
