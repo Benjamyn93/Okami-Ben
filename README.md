@@ -1,5 +1,5 @@
-# 29th July 9:00pm:
-## 32 Samples in DB 
+# 29th July 11:28pm:
+## 35 Samples in DB 
 - AgentTesla
 - Agent_Tesla
 - Amadey
@@ -19,9 +19,11 @@
 - LockBit
 - Maze
 - Mimikatz
+- Mirai
 - NetWalker
-- Njrat 
-- QakBot
+- Njrat
+- Qakbot
+- RansomEXX
 - RedLineStealer
 - Remcos
 - Ryuk
@@ -30,4 +32,6 @@
 - TrickBot
 - Vidar
 - WannaCry
-- Zeus  
+- XORDDoS
+- Zeus 
+- Zloader 
