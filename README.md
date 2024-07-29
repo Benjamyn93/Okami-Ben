@@ -1,5 +1,8 @@
-# 29th July:
-## 18 Samples in DB 
+# 29th July 9:00pm:
+## 32 Samples in DB 
+- AgentTesla
+- Agent_Tesla
+- Amadey
 - AsyncRAT
 - Azorult
 - Blackmatter
@@ -7,14 +10,24 @@
 - Clop
 - Conti
 - Cortex
+- DCRat
 - Darkside
+- Dharma-Crysis
 - Dridex
 - Emotet
+- Formbook
 - LockBit
 - Maze
 - Mimikatz
 - NetWalker
+- Njrat 
+- QakBot
+- RedLineStealer
+- Remcos
 - Ryuk
+- SmokeLoader
 - Sodinokibi
 - TrickBot
-- Zeus 
+- Vidar
+- WannaCry
+- Zeus  
