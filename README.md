@@ -1,4 +1,4 @@
-# 29th July 11:28pm:
+# 31st July 7:30pm:
 ## 35 Samples in DB 
 - AgentTesla
 - Agent_Tesla
@@ -21,8 +21,8 @@
 - Mimikatz
 - Mirai
 - NetWalker
-- Njrat
-- Qakbot
+- NjRAT
+- Qakbot (QBot)
 - RansomEXX
 - RedLineStealer
 - Remcos
@@ -33,5 +33,5 @@
 - Vidar
 - WannaCry
 - XORDDoS
-- Zeus 
+- Zeus
 - Zloader 
